@@ -169,9 +169,8 @@ int main() {
 
 To run the lexical analyzer on your sample C code, use the following command:
 
-```bash
-./GROUP < Sample_C_code.c
-```
+#### copy and paste from source code
+
 
 ### 7. Check the Output
 
