@@ -1,11 +1,11 @@
 
-# Lexical Analyzer for C Code Using Flex
+# Group-3 Lexical Analyzer for C Code Using Flex
 
 This Assignment the creation of a **Lexical Analyzer** using **Flex** (a lexical analyzer generator) to analyze C code containing `if` conditions and `for` loops. The lexical analyzer breaks down the C code into various tokens such as keywords, operators, identifiers, literals, and punctuation.
 
-## Project Overview
+## Overview
 
-The main goal of this project is to analyze the following sample C code:
+The main goal of this code is to analyze the following sample C code:
 
 ```c
 int main() {
